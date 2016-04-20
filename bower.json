@@ -1,0 +1,13 @@
+{
+  "name": "reactjs",
+  "description": "",
+  "main": "webpack.config.js",
+  "authors": [
+    "Wender Freese"
+  ],
+  "license": "ISC",
+  "moduleType": [
+    "amd"
+  ],
+  "homepage": ""
+}
