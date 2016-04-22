@@ -5,7 +5,7 @@ import Copyright from './Footer/Copyright'
 export default class Footer extends React.Component {
   render() {
     return (
-      <footer>
+      <footer class="zurb-footer-bottom">
         <Copyright />
       </footer>
     );
